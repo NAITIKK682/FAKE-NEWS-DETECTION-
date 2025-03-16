@@ -1,1 +1,1 @@
-hiii
+Welcome to the Fake News Detection project! This AI-powered platform is designed to combat the spread of misinformation by leveraging advanced machine learning and natural language processing (NLP) techniques. Our goal is to provide users with a reliable tool to verify the authenticity of news articles in real-time.
